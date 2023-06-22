@@ -62,6 +62,5 @@ lv.anim_t.start(a)
 
 label = lv.label(lv.scr_act())
 label.set_text('ภาษาไทย')
-#label.set_text('PHENGSALAE')
 label.align(lv.ALIGN.CENTER, 0, 46)
 label.set_style_text_font(lv.Kanit_Regular_20, 0)
